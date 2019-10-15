@@ -1,2 +1,1 @@
-# Create your Costume class here
-# It should inherit from ActiveRecord::Base
+Class costume < ActiveRecord::Migration 
