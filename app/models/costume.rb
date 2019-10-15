@@ -1,1 +1,2 @@
-Class costume < ActiveRecord::Migration 
+Class costume < ActiveRecord::Base 
+end 
